@@ -11,6 +11,7 @@ public class ArrayDemo {
 
         array.fillRandomly(myArray);
         array.print(myArray);
+
         array.findMax(myArray);
     }
 }
